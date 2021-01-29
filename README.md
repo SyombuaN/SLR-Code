@@ -1,4 +1,4 @@
-# SLR-Code
+# SLR- Final Code
 Summary of Simple Linear Regression in R
 #Load packages
 library(ggplot2)
